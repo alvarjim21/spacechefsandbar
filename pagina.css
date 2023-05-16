@@ -1,3 +1,9 @@
+@font-face{
+    font-family: "Summer Blaster";
+    src: url(Summer\ Blaster.otf);
+}
+
+
 .nombre h1{
 	text-align: center;
 	font-size: 70px;
