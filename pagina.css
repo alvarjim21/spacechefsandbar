@@ -8,6 +8,11 @@
     src: url(Monaco.ttf);
 }
 
+@font-face{
+    font-family: "Lucida Bright";
+    src: url(LBRITE.TTF);
+}
+
 
 .nombre h1{
 	text-align: center;
